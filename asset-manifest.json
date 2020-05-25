@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/greene729.github.io/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/greene729.github.io/static/js/main.f8ff765e.chunk.js",
+    "main.js.map": "/greene729.github.io/static/js/main.f8ff765e.chunk.js.map",
+    "runtime-main.js": "/greene729.github.io/static/js/runtime-main.844c9d4d.js",
+    "runtime-main.js.map": "/greene729.github.io/static/js/runtime-main.844c9d4d.js.map",
+    "static/js/2.edb47252.chunk.js": "/greene729.github.io/static/js/2.edb47252.chunk.js",
+    "static/js/2.edb47252.chunk.js.map": "/greene729.github.io/static/js/2.edb47252.chunk.js.map",
+    "index.html": "/greene729.github.io/index.html",
+    "precache-manifest.fd4fda20d1daa5135596ea386c28aeea.js": "/greene729.github.io/precache-manifest.fd4fda20d1daa5135596ea386c28aeea.js",
+    "service-worker.js": "/greene729.github.io/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/greene729.github.io/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.edb47252.chunk.js.LICENSE.txt": "/greene729.github.io/static/js/2.edb47252.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.844c9d4d.js",
+    "static/js/2.edb47252.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.f8ff765e.chunk.js"
+  ]
+}
