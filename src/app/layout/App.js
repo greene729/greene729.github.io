@@ -1,14 +1,17 @@
-import React, { Component } from 'react';
+import React, { Component, Fragment } from 'react';
 import NavBar from '../../features/nav/NavBar';
+import HomePage from '../../features/home/HomePage';
+import { Container } from 'semantic-ui-react';
 
 class App extends Component {
 	render() {
 		return (
-			<div>
+			<Fragment>
 				<NavBar />
-				<h1>Alex Greene's Portfolio Page</h1>
-				<p>Currently under construction</p>
-			</div>
+				<Container className='main'>
+					<HomePage />
+				</Container>
+			</Fragment>
 		);
 	}
 }
